@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT-college student
 ------------------
 
-*   🌍  I'm based in Russia
+*   🌍  I'm based in Russia.
 *   ✉️  You can contact me at [fakeev.sd@gmail.com](mailto:fakeev.sd@gmail.com)
 *   🚀  I'm currently working on [Persist](http://github.com/fakeev-sd)
 *   🧠  I'm learning C#.
