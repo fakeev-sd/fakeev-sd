@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fakeev S.
 =================================================================================================================================
 
-IT-college student
+About
 ------------------
 
-*   🌍  Russia, 19 yo, college programmer student.
+*   🌍  Russia. College programmer student.
 *   ✉️  Contact - [fakeev.sd@gmail.com](mailto:fakeev.sd@gmail.com)
-*   🚀  Learning C#. Currently working on [Persist](http://github.com/fakeev-sd)
+*   🚀  Learning C#. Currently working on [Persist](http://github.com/fakeev-sd).
 
   # Learning
 <p align="left">
