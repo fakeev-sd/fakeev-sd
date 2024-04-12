@@ -6,7 +6,7 @@ About
 
 *   🌍  Russia. College programmer student.
 *   ✉️  Contact - [fakeev.sd@gmail.com](mailto:fakeev.sd@gmail.com)
-*   🚀  Learning C#. Currently working on [Persist](http://github.com/fakeev-sd).
+*   🚀  Learning C#. Currently working on [Persist](http://github.com/fakeev-sd/persist).
 
   # Learning
 <p align="left">
