@@ -1,12 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=================================================================================================================================
-
-About
 ------------------
 
 *   🌍  Russia. College programmer student.
 *   ✉️  Contact - [fakeev.sd@gmail.com](mailto:fakeev.sd@gmail.com)
-*   🚀  Learning C# and Python. Currently working on [Persist](http://github.com/fakeev-sd/persist).
+*   🚀  Learning C# and Python. 
 
   # Learning
 <p align="left">
